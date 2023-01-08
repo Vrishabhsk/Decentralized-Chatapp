@@ -1,6 +1,9 @@
-export const CONTRACT_ADDRESS = "0x266EeA17d1B035C5FD9d3A488C85f28F0bE4883a";
+export const CONTRACT_ADDRESS = ""; // insert the contract address obtained from truffle console
 
-export const CONTRACT_ABI = [
+export const CONTRACT_ABI = []; // insert the abi gained from ChatDapp.json after deploying
+
+// sample abi is as follows
+/* [
   {
     inputs: [
       {
@@ -84,4 +87,4 @@ export const CONTRACT_ABI = [
     type: "function",
     constant: true,
   },
-];
+]; */
