@@ -2,6 +2,14 @@
 
 This folder contains the react app. It is a simple UI for interacting with the smart contract using Web3.js package.
 
+# Prerequisites
+
+```
+1. Node.JS should be installed
+2. Complete steps mentioned in dapp_contract
+3. Run the app
+```
+
 # Run Locally
 
 To test this project, clone the repo in the base branch and perform the following commands.
