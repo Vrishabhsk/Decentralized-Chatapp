@@ -7,7 +7,8 @@ This folder contains the react app. It is a simple UI for interacting with the s
 ```
 1. Node.JS should be installed
 2. Complete steps mentioned in dapp_contract
-3. Run the app
+3. Get the contract address and ABI by following the dapp_contract steps and edit the config.js file
+4. Run the app
 ```
 
 # Run Locally
